@@ -2,5 +2,4 @@
 	int main()
 	{
 		printf("test");
-		ruining the code
 	}
